@@ -1,1 +1,1 @@
-# Vibrational-Responses-of-an-SDPF-System-with-Attached-TLCD
+# Vibrational-Responses-of-an-SDOF-System-with-Attached-TLCD
